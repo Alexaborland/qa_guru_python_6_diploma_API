@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "qa-guru-python-6-diploma-api"
+version = "0.1.0"
+description = ""
+authors = ["Aleksandra Kashina <Borland3711@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pytest = "^7.4.2"
+selene = "^1.0.2"
+allure-pytest = "^2.13.2"
+pip = "^23.2.1"
+selenium = "^4.13.0"
+requests = "^2.31.0"
+python-dotenv = "^1.0.0"
+jsonschema = "^4.19.1"
+curlify = "^2.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

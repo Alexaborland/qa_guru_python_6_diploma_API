@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "",
+    "project": "${JOB_BASE_NAME}",
+    "environment": "Prod https://demoqa.com",
+    "comment": "alexa_borland test passed",
+    "reportLink": "${BUILD_URL}",
+    "language": "en",
+    "allureFolder": "C:/Users/HP/AppData/Local/Temp/831599417158043428/allure-report",
+     "enableChart": true
+  },
+  "telegram": {
+    "token": "6645750689:AAE-o6xipweZIcSa2iIDaL-AsGJ1nDZXc88",
+    "chat": "-4085039291",
+    "replyTo": ""
+  }
+}

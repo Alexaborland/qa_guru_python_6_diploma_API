@@ -30,7 +30,7 @@
 ### <img width="5%" title="Jenkins" src="https://github.com/Alexaborland/qa_guru_python_6_diploma_API/blob/main/images/jenkins.png"> Запуск проекта в Jenkins  
 ### [Job](https://jenkins.autotests.cloud/job/qa_guru_6_diploma_API/)
 
-При нажатии кнопки "Собрать сейчас" происходит сборка авторестов и формируются 2 отчета: Allure Report и Allire TestOps
+При нажатии кнопки "Собрать сейчас" происходит сборка автотестов и формируются 2 отчета: Allure Report и Allгre TestOps
 
 <img width="100%" title="parametrs" src="https://github.com/Alexaborland/qa_guru_python_6_diploma_API/blob/main/screenshots/joba.png"></code>
 
@@ -44,7 +44,7 @@
 
 <img width="100%" title="parametrs" src="https://github.com/Alexaborland/qa_guru_python_6_diploma_API/blob/main/screenshots/allure.png"></code>
 
- Во вкладке Suites можно посмотреть собранныет тесты, у которых описаны шаги, приложены логи, скриншот и видео прохождения теста 
+ Во вкладке Suites можно посмотреть собранные тесты, у которых описаны шаги.
 
  <img width="100%" title="parametrs" src="https://github.com/Alexaborland/qa_guru_python_6_diploma_API/blob/main/screenshots/allure_suites.png"></code>
 
@@ -64,7 +64,7 @@
 
 ### <img width="5%" title="Telegram" src="https://github.com/Alexaborland/qa_guru_python_6_diploma_API/blob/main/images/telegram.png"> Интеграция с Telegram
 
-После прохождения тестов, в Telegram bot приходит сообщение с графиком и небольшой информацией о тестах.
+После прохождения тестов в Telegram bot приходит сообщение с графиком и небольшой информацией о тестах.
 
 <img width="50%" title="allure_tests" src="https://github.com/Alexaborland/qa_guru_python_6_diploma_API/blob/main/screenshots/telegram.png"></code>
  

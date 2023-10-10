@@ -2,11 +2,11 @@
   "base": {
     "logo": "",
     "project": "${JOB_BASE_NAME}",
-    "environment": "Prod https://demoqa.com",
+    "environment": "API https://reqres.in",
     "comment": "alexa_borland test passed",
     "reportLink": "${BUILD_URL}",
     "language": "en",
-    "allureFolder": "C:/Users/HP/AppData/Local/Temp/831599417158043428/allure-report",
+    "allureFolder": "C:/Users/HP/AppData/Local/Temp/8233618044372802735/allure-report",
      "enableChart": true
   },
   "telegram": {

@@ -13,8 +13,8 @@
     }
   },
   "required": [
-    "name",
-    "job",
+    "updated_name",
+    "updated_job",
     "updatedAt"
   ]
 }

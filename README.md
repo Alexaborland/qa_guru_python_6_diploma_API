@@ -7,7 +7,6 @@
   <code><img width="5%" title="Pytest" src="https://github.com/Alexaborland/qa_guru_python_6_diploma_API/blob/main/images/pytest.png"></code>
   <code><img width="5%" title="GitHub" src="https://github.com/Alexaborland/qa_guru_python_6_diploma_API/blob/main/images/github.png"></code>
   <code><img width="5%" title="Jenkins" src="https://github.com/Alexaborland/qa_guru_python_6_diploma_API/blob/main/images/jenkins.png"></code>
-  <code><img width="5%" title="Selenoid" src="https://github.com/Alexaborland/qa_guru_python_6_diploma_API/blob/main/images/selenoid.png"></code>
   <code><img width="5%" title="Allure Report" src="https://github.com/Alexaborland/qa_guru_python_6_diploma_API/blob/main/images/allure.png"></code>
   <code><img width="5%" title="Allure TestOps" src="https://github.com/Alexaborland/qa_guru_python_6_diploma_API/blob/main/images/allure_testops.png"></code>
   <code><img width="5%" title="Telegram" src="https://github.com/Alexaborland/qa_guru_python_6_diploma_API/blob/main/images/telegram.png"></code>
